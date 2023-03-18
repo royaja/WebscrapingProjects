@@ -1,0 +1,2 @@
+This project scrapes citations and university affiliation from coauthors of Prof. Dr. Anders Olof Larsson at Kristiania University College.
+All information being scraped is available from Prof. Dr. Larsson`s Google Scholar profile (17.03.2023): https://scholar.google.com/citations?user=MPGY79kAAAAJ&hl=no&oi=ao 
