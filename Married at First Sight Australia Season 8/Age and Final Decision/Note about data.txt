@@ -1,0 +1,1 @@
+Data for this project was scraped from Wikipedia using the rvest package in R. A separate folder with data and script will be uploaded to GitHub. 
